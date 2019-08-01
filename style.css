@@ -1,0 +1,24 @@
+body{
+  background-image: url(https://i.pinimg.com/originals/60/8b/d0/608bd0faa4eac96cabcf03055a7f7e77.jpg);
+}
+h1{
+  background-color: yellow
+}
+input {
+  margin: 15px;
+  padding: 12px 18px;
+  border: 1px solid #4A37E7;
+  background: #4A37E7;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 4px;
+}
+body{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+}
+h2{
+  background-color: yellow
+}
